@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Decentralized-File-Storage/static/css/main.a73ef43c.css",
+    "main.js": "/Decentralized-File-Storage/static/js/main.3d2fbdb9.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Decentralized-File-Storage/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Decentralized-File-Storage/index.html",
+    "main.a73ef43c.css.map": "/Decentralized-File-Storage/static/css/main.a73ef43c.css.map",
+    "main.3d2fbdb9.js.map": "/Decentralized-File-Storage/static/js/main.3d2fbdb9.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Decentralized-File-Storage/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a73ef43c.css",
+    "static/js/main.3d2fbdb9.js"
+  ]
+}

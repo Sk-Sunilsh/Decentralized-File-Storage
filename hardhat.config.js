@@ -8,8 +8,8 @@ module.exports = {
       chainId: 1337,
     },
     sepolia: {
-      url: "https://sepolia.infura.io/v3/2e2c861981fc4783b03dae827b0bf145", // Replace with your Infura project ID
-      accounts: ["0x204e02e612f9fd968bfcea22460e135320d53e50813548134ddd8270b6fe90d5"], // Replace with your wallet's private key
+      url: "https://sepolia.infura.io/v3/2e2c861981fc4783b03dae827b0bf145",
+      accounts: ["0x204e02e612f9fd968bfcea22460e135320d53e50813548134ddd8270b6fe90d5"],
     },
   },
   paths: {
